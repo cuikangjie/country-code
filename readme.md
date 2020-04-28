@@ -12,3 +12,5 @@
 ...
 ]
 ```
+
+- [点击下载](https://raw.githubusercontent.com/cuikangjie/country-code/master/countryCode.json)
