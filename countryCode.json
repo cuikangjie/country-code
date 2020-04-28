@@ -1,4 +1,12 @@
 [{
+  "country": "Countries/Regions",
+  "countryCode": "国际域名缩写",
+  "name": "国家或地区"
+}, {
+  "country": "Angola",
+  "countryCode": "AO",
+  "name": "安哥拉"
+}, {
   "country": "Afghanistan",
   "countryCode": "AF",
   "name": "阿富汗"
@@ -13,23 +21,15 @@
 }, {
   "country": "Andorra",
   "countryCode": "AD",
-  "name": "安道尔"
-}, {
-  "country": "Angola",
-  "countryCode": "AO",
-  "name": "安哥拉"
+  "name": "安道尔共和国"
 }, {
   "country": "Anguilla",
   "countryCode": "AI",
-  "name": "安圭拉"
+  "name": "安圭拉岛"
 }, {
   "country": "Antigua and Barbuda",
   "countryCode": "AG",
-  "name": "安提瓜和巴布达岛"
-}, {
-  "country": "Arab Emirates",
-  "countryCode": "AE",
-  "name": "阿联酋"
+  "name": "安提瓜和巴布达"
 }, {
   "country": "Argentina",
   "countryCode": "AR",
@@ -39,9 +39,9 @@
   "countryCode": "AM",
   "name": "亚美尼亚"
 }, {
-  "country": "Aruba",
-  "countryCode": "AW",
-  "name": "阿鲁巴"
+  "country": "Ascension",
+  "countryCode": "SH",
+  "name": "阿森松"
 }, {
   "country": "Australia",
   "countryCode": "AU",
@@ -87,33 +87,17 @@
   "countryCode": "BJ",
   "name": "贝宁"
 }, {
-  "country": "Bermuda",
+  "country": "Bermuda Is.",
   "countryCode": "BM",
   "name": "百慕大群岛"
-}, {
-  "country": "Bhutan",
-  "countryCode": "BT",
-  "name": "不丹"
 }, {
   "country": "Bolivia",
   "countryCode": "BO",
   "name": "玻利维亚"
 }, {
-  "country": "Bonaire, Saint Eustatius, and Saba",
-  "countryCode": "BQ",
-  "name": "博内尔岛，Saint Eustatius，Saba"
-}, {
-  "country": "Bosnia and Herzegovina",
-  "countryCode": "BIH",
-  "name": "Bosnia和Herzegovina"
-}, {
   "country": "Botswana",
   "countryCode": "BW",
   "name": "博茨瓦纳"
-}, {
-  "country": "Bouvet Island",
-  "countryCode": "BV",
-  "name": "布维岛"
 }, {
   "country": "Brazil",
   "countryCode": "BR",
@@ -127,17 +111,17 @@
   "countryCode": "BG",
   "name": "保加利亚"
 }, {
-  "country": "Burkina Faso",
+  "country": "Burkina-faso",
   "countryCode": "BF",
   "name": "布基纳法索"
+}, {
+  "country": "Burma",
+  "countryCode": "MM",
+  "name": "缅甸"
 }, {
   "country": "Burundi",
   "countryCode": "BI",
   "name": "布隆迪"
-}, {
-  "country": "Cambodia",
-  "countryCode": "KH",
-  "name": "柬埔寨"
 }, {
   "country": "Cameroon",
   "countryCode": "CM",
@@ -147,11 +131,7 @@
   "countryCode": "CA",
   "name": "加拿大"
 }, {
-  "country": "Cape Verde",
-  "countryCode": "CV",
-  "name": "佛得角"
-}, {
-  "country": "Cayman Islands",
+  "country": "Cayman Is.",
   "countryCode": "KY",
   "name": "开曼群岛"
 }, {
@@ -167,35 +147,19 @@
   "countryCode": "CL",
   "name": "智利"
 }, {
-  "country": "China, Hong Kong S.A.R.",
-  "countryCode": "HK",
-  "name": "中国，香港特别行政区"
-}, {
-  "country": "China, the People's Republic of China (PRC)",
+  "country": "China",
   "countryCode": "CN",
-  "name": "中国，中华人民共和国"
-}, {
-  "country": "Cocos Islands",
-  "countryCode": "CC",
-  "name": "科科斯群岛"
+  "name": "中国"
 }, {
   "country": "Colombia",
   "countryCode": "CO",
   "name": "哥伦比亚"
 }, {
-  "country": "Comoros",
-  "countryCode": "KM",
-  "name": "科摩罗"
-}, {
   "country": "Congo",
   "countryCode": "CG",
   "name": "刚果"
 }, {
-  "country": "Congo, Democratic Republic of the Congo",
-  "countryCode": "CD",
-  "name": "刚果民主共和国"
-}, {
-  "country": "Cook Islands",
+  "country": "Cook Is.",
   "countryCode": "CK",
   "name": "库克群岛"
 }, {
@@ -203,17 +167,9 @@
   "countryCode": "CR",
   "name": "哥斯达黎加"
 }, {
-  "country": "Croatia",
-  "countryCode": "HR",
-  "name": "克罗地亚"
-}, {
   "country": "Cuba",
   "countryCode": "CU",
   "name": "古巴"
-}, {
-  "country": "Curacao",
-  "countryCode": "CW",
-  "name": "库拉索岛"
 }, {
   "country": "Cyprus",
   "countryCode": "CY",
@@ -221,11 +177,7 @@
 }, {
   "country": "Czech Republic",
   "countryCode": "CZ",
-  "name": "捷克共和国"
-}, {
-  "country": "Czechoslovakia",
-  "countryCode": "CS",
-  "name": "捷克斯洛伐克"
+  "name": "捷克"
 }, {
   "country": "Denmark",
   "countryCode": "DK",
@@ -235,13 +187,9 @@
   "countryCode": "DJ",
   "name": "吉布提"
 }, {
-  "country": "Dominica",
-  "countryCode": "DM",
-  "name": "多米尼加"
-}, {
-  "country": "Dominican Republic",
+  "country": "Dominica Rep.",
   "countryCode": "DO",
-  "name": "多明尼加共和国"
+  "name": "多米尼加共和国"
 }, {
   "country": "Ecuador",
   "countryCode": "EC",
@@ -251,17 +199,9 @@
   "countryCode": "EG",
   "name": "埃及"
 }, {
-  "country": "El Salvador",
+  "country": "EI Salvador",
   "countryCode": "SV",
   "name": "萨尔瓦多"
-}, {
-  "country": "Equatorial Guinea",
-  "countryCode": "GQ",
-  "name": "赤道几内亚"
-}, {
-  "country": "Eritrea",
-  "countryCode": "ER",
-  "name": "厄立特里亚"
 }, {
   "country": "Estonia",
   "countryCode": "EE",
@@ -270,14 +210,6 @@
   "country": "Ethiopia",
   "countryCode": "ET",
   "name": "埃塞俄比亚"
-}, {
-  "country": "Falkland Islands (Malvinas)",
-  "countryCode": "FK",
-  "name": "福克兰群岛（Malvinas）"
-}, {
-  "country": "Faroe Islands",
-  "countryCode": "FO",
-  "name": "法罗群岛"
 }, {
   "country": "Fiji",
   "countryCode": "FJ",
@@ -295,10 +227,6 @@
   "countryCode": "GF",
   "name": "法属圭亚那"
 }, {
-  "country": "French Polynesia",
-  "countryCode": "PF",
-  "name": "法属波利尼西亚"
-}, {
   "country": "Gabon",
   "countryCode": "GA",
   "name": "加蓬"
@@ -307,13 +235,9 @@
   "countryCode": "GM",
   "name": "冈比亚"
 }, {
-  "country": "Georgia, Republic of Georgia",
+  "country": "Georgia",
   "countryCode": "GE",
-  "name": "格鲁吉亚共和国"
-}, {
-  "country": "German Democratic Republic",
-  "countryCode": "DD",
-  "name": "德意志民主共和国"
+  "name": "格鲁吉亚"
 }, {
   "country": "Germany",
   "countryCode": "DE",
@@ -331,33 +255,21 @@
   "countryCode": "GR",
   "name": "希腊"
 }, {
-  "country": "Greenland",
-  "countryCode": "GL",
-  "name": "格陵兰岛"
-}, {
   "country": "Grenada",
   "countryCode": "GD",
   "name": "格林纳达"
 }, {
-  "country": "Guadeloupe",
-  "countryCode": "GP",
-  "name": "瓜德罗普岛"
+  "country": "Guam",
+  "countryCode": "GU",
+  "name": "关岛"
 }, {
   "country": "Guatemala",
   "countryCode": "GT",
   "name": "危地马拉"
 }, {
-  "country": "Guernsey",
-  "countryCode": "GG",
-  "name": "根西岛"
-}, {
   "country": "Guinea",
   "countryCode": "GN",
   "name": "几内亚"
-}, {
-  "country": "Guinea-Bissau",
-  "countryCode": "GW",
-  "name": "几内亚比绍"
 }, {
   "country": "Guyana",
   "countryCode": "GY",
@@ -370,6 +282,10 @@
   "country": "Honduras",
   "countryCode": "HN",
   "name": "洪都拉斯"
+}, {
+  "country": "Hongkong",
+  "countryCode": "HK",
+  "name": "香港"
 }, {
   "country": "Hungary",
   "countryCode": "HU",
@@ -399,10 +315,6 @@
   "countryCode": "IE",
   "name": "爱尔兰"
 }, {
-  "country": "Isle of Man",
-  "countryCode": "IM",
-  "name": "马恩岛"
-}, {
   "country": "Israel",
   "countryCode": "IL",
   "name": "以色列"
@@ -413,7 +325,7 @@
 }, {
   "country": "Ivory Coast",
   "countryCode": "CI",
-  "name": "象牙海岸"
+  "name": "科特迪瓦"
 }, {
   "country": "Jamaica",
   "countryCode": "JM",
@@ -423,15 +335,15 @@
   "countryCode": "JP",
   "name": "日本"
 }, {
-  "country": "Jersey",
-  "countryCode": "JE",
-  "name": "泽西"
-}, {
   "country": "Jordan",
   "countryCode": "JO",
-  "name": "乔丹"
+  "name": "约旦"
 }, {
-  "country": "Kazakhstan",
+  "country": "Kampuchea (Cambodia )",
+  "countryCode": "KH",
+  "name": "柬埔寨"
+}, {
+  "country": "Kazakstan",
   "countryCode": "KZ",
   "name": "哈萨克斯坦"
 }, {
@@ -439,9 +351,9 @@
   "countryCode": "KE",
   "name": "肯尼亚"
 }, {
-  "country": "Kiribati",
-  "countryCode": "KI",
-  "name": "基里巴斯"
+  "country": "Korea",
+  "countryCode": "KR",
+  "name": "韩国"
 }, {
   "country": "Kuwait",
   "countryCode": "KW",
@@ -449,7 +361,7 @@
 }, {
   "country": "Kyrgyzstan",
   "countryCode": "KG",
-  "name": "吉尔吉斯斯坦"
+  "name": "吉尔吉斯坦"
 }, {
   "country": "Laos",
   "countryCode": "LA",
@@ -487,13 +399,9 @@
   "countryCode": "LU",
   "name": "卢森堡"
 }, {
-  "country": "Macau",
+  "country": "Macao",
   "countryCode": "MO",
   "name": "澳门"
-}, {
-  "country": "Macedonia (Former Yugoslav Republic)",
-  "countryCode": "MK",
-  "name": "马其顿（前南斯拉夫共和国）"
 }, {
   "country": "Madagascar",
   "countryCode": "MG",
@@ -519,17 +427,13 @@
   "countryCode": "MT",
   "name": "马耳他"
 }, {
-  "country": "Marshall Islands",
-  "countryCode": "MH",
-  "name": "马绍尔群岛"
+  "country": "Mariana Is",
+  "countryCode": "MP",
+  "name": "马里亚那群岛"
 }, {
   "country": "Martinique",
   "countryCode": "MQ",
   "name": "马提尼克"
-}, {
-  "country": "Mauritania",
-  "countryCode": "MR",
-  "name": "毛里塔尼亚"
 }, {
   "country": "Mauritius",
   "countryCode": "MU",
@@ -539,9 +443,9 @@
   "countryCode": "MX",
   "name": "墨西哥"
 }, {
-  "country": "Moldova, Republic of Moldova",
+  "country": "Moldova, Republic of",
   "countryCode": "MD",
-  "name": "摩尔多瓦共和国"
+  "name": "摩尔多瓦"
 }, {
   "country": "Monaco",
   "countryCode": "MC",
@@ -551,11 +455,7 @@
   "countryCode": "MN",
   "name": "蒙古"
 }, {
-  "country": "Montenegro",
-  "countryCode": "ME",
-  "name": "黑山"
-}, {
-  "country": "Montserrat",
+  "country": "Montserrat Is",
   "countryCode": "MS",
   "name": "蒙特塞拉特岛"
 }, {
@@ -566,10 +466,6 @@
   "country": "Mozambique",
   "countryCode": "MZ",
   "name": "莫桑比克"
-}, {
-  "country": "Myanmar",
-  "countryCode": "MM",
-  "name": "缅甸"
 }, {
   "country": "Namibia",
   "countryCode": "NA",
@@ -583,21 +479,13 @@
   "countryCode": "NP",
   "name": "尼泊尔"
 }, {
+  "country": "Netheriands Antilles",
+  "countryCode": "",
+  "name": "荷属安的列斯"
+}, {
   "country": "Netherlands",
   "countryCode": "NL",
   "name": "荷兰"
-}, {
-  "country": "Netherlands Antilles",
-  "countryCode": "AN",
-  "name": "荷属安的列斯群岛"
-}, {
-  "country": "New Caledonia",
-  "countryCode": "NC",
-  "name": "新喀里多尼亚"
-}, {
-  "country": "New Guinea",
-  "countryCode": "PG",
-  "name": "新几内亚"
 }, {
   "country": "New Zealand",
   "countryCode": "NZ",
@@ -615,17 +503,9 @@
   "countryCode": "NG",
   "name": "尼日利亚"
 }, {
-  "country": "Norfolk Island",
-  "countryCode": "NF",
-  "name": "诺福克岛"
-}, {
   "country": "North Korea",
   "countryCode": "KP",
   "name": "朝鲜"
-}, {
-  "country": "Northern Mariana Islands",
-  "countryCode": "MP",
-  "name": "北马里亚纳群岛"
 }, {
   "country": "Norway",
   "countryCode": "NO",
@@ -639,16 +519,12 @@
   "countryCode": "PK",
   "name": "巴基斯坦"
 }, {
-  "country": "Palau",
-  "countryCode": "PW",
-  "name": "帕劳"
-}, {
   "country": "Panama",
   "countryCode": "PA",
   "name": "巴拿马"
 }, {
-  "country": "Papua New Guinea",
-  "countryCode": "PNG",
+  "country": "Papua New Cuinea",
+  "countryCode": "PG",
   "name": "巴布亚新几内亚"
 }, {
   "country": "Paraguay",
@@ -667,41 +543,49 @@
   "countryCode": "PL",
   "name": "波兰"
 }, {
+  "country": "French Polynesia",
+  "countryCode": "PF",
+  "name": "法属玻利尼西亚"
+}, {
   "country": "Portugal",
   "countryCode": "PT",
   "name": "葡萄牙"
+}, {
+  "country": "Puerto Rico",
+  "countryCode": "PR",
+  "name": "波多黎各"
 }, {
   "country": "Qatar",
   "countryCode": "QA",
   "name": "卡塔尔"
 }, {
-  "country": "Rhodesia",
-  "countryCode": "RH",
-  "name": "罗得西亚"
+  "country": "Reunion",
+  "countryCode": "RE",
+  "name": "留尼旺"
 }, {
   "country": "Romania",
   "countryCode": "RO",
   "name": "罗马尼亚"
 }, {
-  "country": "Russian Federation",
+  "country": "Russia",
   "countryCode": "RU",
-  "name": "俄罗斯联邦"
+  "name": "俄罗斯"
 }, {
-  "country": "Rwanda",
-  "countryCode": "RW",
-  "name": "卢旺达"
+  "country": "Saint Lueia",
+  "countryCode": "LC",
+  "name": "圣卢西亚"
 }, {
-  "country": "Saint Helena, Ascension, and Tristan da Cunha",
-  "countryCode": "SH",
-  "name": "Saint Helena，阿森松岛和Tristan da Cunha"
+  "country": "Saint Vincent",
+  "countryCode": "VC",
+  "name": "圣文森特岛"
 }, {
-  "country": "Saint Kitts and Nevis",
-  "countryCode": "KN",
-  "name": "Saint Kitts和尼维斯"
+  "country": "Samoa Eastern",
+  "countryCode": "AS",
+  "name": "东萨摩亚(美)"
 }, {
-  "country": "Samoa",
+  "country": "Samoa Western",
   "countryCode": "WS",
-  "name": "萨摩亚"
+  "name": "西萨摩亚"
 }, {
   "country": "San Marino",
   "countryCode": "SM",
@@ -719,10 +603,6 @@
   "countryCode": "SN",
   "name": "塞内加尔"
 }, {
-  "country": "Serbia",
-  "countryCode": "RS",
-  "name": "塞尔维亚"
-}, {
   "country": "Seychelles",
   "countryCode": "SC",
   "name": "塞舌尔"
@@ -735,10 +615,6 @@
   "countryCode": "SG",
   "name": "新加坡"
 }, {
-  "country": "Sint Maarten (Dutch part)",
-  "countryCode": "SX",
-  "name": "Sint Maarten（荷兰语的部分）"
-}, {
   "country": "Slovakia",
   "countryCode": "SK",
   "name": "斯洛伐克"
@@ -747,25 +623,17 @@
   "countryCode": "SI",
   "name": "斯洛文尼亚"
 }, {
-  "country": "Solomon Islands",
+  "country": "Solomon Is",
   "countryCode": "SB",
   "name": "所罗门群岛"
 }, {
-  "country": "Somalia",
+  "country": "Somali",
   "countryCode": "SO",
   "name": "索马里"
 }, {
   "country": "South Africa",
   "countryCode": "ZA",
   "name": "南非"
-}, {
-  "country": "South Georgia and the South Sandwich Islands",
-  "countryCode": "GS",
-  "name": "南乔治亚岛和南威奇群岛"
-}, {
-  "country": "South Korea",
-  "countryCode": "KR",
-  "name": "韩国"
 }, {
   "country": "Spain",
   "countryCode": "ES",
@@ -775,13 +643,13 @@
   "countryCode": "LK",
   "name": "斯里兰卡"
 }, {
-  "country": "St. Lucia",
+  "country": "St.Lucia",
   "countryCode": "LC",
-  "name": "圣露西亚"
+  "name": "圣卢西亚"
 }, {
-  "country": "St. Vincent and the Grenadines",
+  "country": "St.Vincent",
   "countryCode": "VC",
-  "name": "圣文森特和格林纳丁斯"
+  "name": "圣文森特"
 }, {
   "country": "Sudan",
   "countryCode": "SD",
@@ -809,23 +677,19 @@
 }, {
   "country": "Taiwan",
   "countryCode": "TW",
-  "name": "台湾"
+  "name": "台湾省"
 }, {
-  "country": "Tajikistan",
+  "country": "Tajikstan",
   "countryCode": "TJ",
   "name": "塔吉克斯坦"
 }, {
   "country": "Tanzania",
-  "countryCode": "TZ",
+  "countryCode": "TZ1",
   "name": "坦桑尼亚"
 }, {
   "country": "Thailand",
   "countryCode": "TH",
   "name": "泰国"
-}, {
-  "country": "Timor-Leste",
-  "countryCode": "TL",
-  "name": "东帝汶"
 }, {
   "country": "Togo",
   "countryCode": "TG",
@@ -851,18 +715,6 @@
   "countryCode": "TM",
   "name": "土库曼斯坦"
 }, {
-  "country": "Turks and Caicos Islands",
-  "countryCode": "TC",
-  "name": "土耳其和凯科斯群岛"
-}, {
-  "country": "Tuvalu",
-  "countryCode": "TV",
-  "name": "图瓦卢"
-}, {
-  "country": "USSR",
-  "countryCode": "SU",
-  "name": "苏联"
-}, {
   "country": "Uganda",
   "countryCode": "UG",
   "name": "乌干达"
@@ -871,13 +723,17 @@
   "countryCode": "UA",
   "name": "乌克兰"
 }, {
-  "country": "United Kingdom",
+  "country": "United Arab Emirates",
+  "countryCode": "AE",
+  "name": "阿拉伯联合酋长国"
+}, {
+  "country": "United Kiongdom",
   "countryCode": "GB",
-  "name": "大不列颠联合王国"
+  "name": "英国"
 }, {
   "country": "United States of America",
   "countryCode": "US",
-  "name": "美利坚合众国"
+  "name": "美国"
 }, {
   "country": "Uruguay",
   "countryCode": "UY",
@@ -887,43 +743,27 @@
   "countryCode": "UZ",
   "name": "乌兹别克斯坦"
 }, {
-  "country": "Vanuatu (New Hebrides)",
-  "countryCode": "VU",
-  "name": "瓦努阿图（新赫布里底群岛）"
-}, {
-  "country": "Vatican City State (Holy See)",
-  "countryCode": "VA",
-  "name": "梵蒂冈城国（圣见）"
-}, {
   "country": "Venezuela",
   "countryCode": "VE",
   "name": "委内瑞拉"
 }, {
-  "country": "Viet Nam",
+  "country": "Vietnam",
   "countryCode": "VN",
   "name": "越南"
-}, {
-  "country": "Virgin (British) Islands",
-  "countryCode": "VG",
-  "name": "英属群岛（英属）群岛"
-}, {
-  "country": "Western Sahara",
-  "countryCode": "EH",
-  "name": "西撒哈拉"
 }, {
   "country": "Yemen",
   "countryCode": "YE",
   "name": "也门"
 }, {
-  "country": "Yugoslavia",
-  "countryCode": "YU",
-  "name": "南斯拉夫"
+  "country": "Zimbabwe",
+  "countryCode": "ZW",
+  "name": "津巴布韦"
+}, {
+  "country": "Zaire",
+  "countryCode": "ZR",
+  "name": "扎伊尔"
 }, {
   "country": "Zambia",
   "countryCode": "ZM",
   "name": "赞比亚"
-}, {
-  "country": "Zimbabwe",
-  "countryCode": "ZW",
-  "name": "津巴布韦"
 }]
